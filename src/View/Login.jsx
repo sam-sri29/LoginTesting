@@ -65,12 +65,12 @@ export default function Login() {
         </form>
 
         {/* Extra Links */}
-        <p className="text-center text-gray-600 mt-4">
+        {/* <p className="text-center text-gray-600 mt-4">
           Don’t have an account?{" "}
           <a href="/signup" className="text-indigo-600 hover:underline">
             Sign Up
           </a>
-        </p>
+        </p> */}
       </div>
     </div>
   );
